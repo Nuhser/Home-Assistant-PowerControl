@@ -1,0 +1,14 @@
+{
+  "ID": "EF1F634F20484459A3679B4FE7B07997",
+  "Disabled": false,
+  "ActionKeyword": "#",
+  "Name": "Home Assistant PowerControl",
+  "Author": "Nuhser",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Nuhser/Home-Assistant-PowerControl",
+  "ExecuteFileName": "HomeAssistant PowerToys Run Plugin.dll",
+  "IsGlobal": false,
+  "IcoPathDark": "images\\homeassistant_dark.png",
+  "IcoPathLight": "images\\homeassistant_light.png"
+}
